@@ -1,7 +1,7 @@
 ### Seja Bem Vindo 👋
 
 
-- 🔭 **Dev Blockchain** 
+- 🔭 **Dev Blockchain / Full-Stack Developer** 
 - 🌱 **Estudando Sempre**
 - ⚡ **Segredo do Sucesso é o Segredo**
 
