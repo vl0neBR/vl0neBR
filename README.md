@@ -15,6 +15,8 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Dart-logo-icon.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/kali-linux.svg">
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/PowerShell.svg">
 </div>
 
 <br>
