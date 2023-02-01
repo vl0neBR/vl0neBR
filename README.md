@@ -20,5 +20,3 @@
 </div>
 
 <br>
-
-<img height="180em" src="https://camo.githubusercontent.com/e85785c81171de01880f972b23242ee9b077aeed0c526ebdfdb030c82bd9dd60/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a616e636f776562266c61796f75743d636f6d70616374267468656d653d636861727472657573652d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=vl0neBR&amp;layout=compact&amp;theme=chartreuse-dark" style="max-width: 100%;">
