@@ -18,5 +18,7 @@
    <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/kali-linux.svg">
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://github.com/I-Am-Jakoby/I-Am-Jakoby/raw/main/img/PowerShell.svg">
 </div>
+<br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wlan000&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 <br>
