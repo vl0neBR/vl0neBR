@@ -1,7 +1,7 @@
 ### 127.0.0.1
 
 
-- 🔭 **Dev Blockchain / Full-Stack Developer** 
+- 🔭 **Full-Stack Developer** 
 - 🌱 **Estudando Sempre**
 - ⚡ **Segredo do Sucesso é o Segredo**
 
