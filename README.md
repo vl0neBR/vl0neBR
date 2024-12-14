@@ -1,9 +1,9 @@
 ### 127.0.0.1
 
 
-- 🔭 **Full-Stack Developer** 
+- 🔭 **Pentest Mobile - Reverse Engineer** 
 - 🌱 **Estudando Sempre**
-- ⚡ **Segredo do Sucesso é o Segredo**
+- ⚡ **o Segredo do Sucesso é o Segredo**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
